@@ -7,7 +7,7 @@
 
 Below are the API details along with the endpoints.
 
-## base user can be = http://localhost:3000/
+## base URL might be = http://localhost:3000/
 
 # Registere user
 /api/register
